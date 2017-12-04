@@ -9,7 +9,7 @@ namespace coreCharts
         //center, left, right
         public string Align { get; set; }
         public int Padding { get; set; }
-        //top, bottom, up, 2
+        //top, bottom
         public string Position { get; set; }
 
     }
