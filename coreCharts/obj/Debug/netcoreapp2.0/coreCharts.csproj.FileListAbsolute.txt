@@ -1,0 +1,6 @@
+D:\Ortec\kendoCharts\coreCharts\bin\Debug\netcoreapp2.0\coreCharts.deps.json
+D:\Ortec\kendoCharts\coreCharts\bin\Debug\netcoreapp2.0\coreCharts.dll
+D:\Ortec\kendoCharts\coreCharts\obj\Debug\netcoreapp2.0\coreCharts.csprojResolveAssemblyReference.cache
+D:\Ortec\kendoCharts\coreCharts\obj\Debug\netcoreapp2.0\coreCharts.csproj.CoreCompileInputs.cache
+D:\Ortec\kendoCharts\coreCharts\obj\Debug\netcoreapp2.0\coreCharts.AssemblyInfoInputs.cache
+D:\Ortec\kendoCharts\coreCharts\obj\Debug\netcoreapp2.0\coreCharts.AssemblyInfo.cs
