@@ -20,7 +20,11 @@ namespace coreCharts
         [JsonProperty("pannable.lock")]
         public string PannableLock { get; set; }
         public PlotArea PlotArea { get; set; }
-
+        public object MyProperty
+        {
+            get;
+            set;
+        }
     }
 
 }
